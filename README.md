@@ -4,10 +4,10 @@ This applications display a list of regions(Asia and europe), countries and the 
 Steps to follows to run the applications
 
 Step1: Clone the repository
-git clone https://github.com/santoshbussa/santosh-countriesinformations
+git clone https://github.com/santoshbussa/santoshcountriesinformationsapplication
 
 Step2: Navigate to the app's root directory
-cd  santosh-countriesinformations
+cd  santoshcountriesinformationsapplication
 
 Step3:Install the dependencies
 npm install
@@ -22,9 +22,7 @@ open in browser http://localhost:4200/region
 
 1)once application opens Drop down that contains the “Region” with options Europe and Asia  will display
 
-2)On selecting any region a second drop down should  will shown  populated with “Countries” based on the API
-
-response from above URLs
+2)On selecting any region a second drop down should  will shown  populated with “Countries” based on the country selected
 
 3)On selecting the any “Country”
 
