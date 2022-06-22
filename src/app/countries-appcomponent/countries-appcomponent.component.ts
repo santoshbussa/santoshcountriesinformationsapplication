@@ -3,8 +3,8 @@ import { Store } from '@ngrx/store';
 import { Observable } from 'rxjs';
 import { Region } from '../models/region';
 import { Country } from '../models/country';
-import * as fromCountries from '../app-store/reducers';
-import { CountryActions, CountriesActions } from '../app-store/actions';
+import * as fromCountries from '../store/reducers';
+import { CountryActions, CountriesActions } from '../store/actions';
 
 @Component({
   selector: 'app-countries-appcomponent',
