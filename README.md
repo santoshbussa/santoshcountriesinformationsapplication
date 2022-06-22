@@ -4,10 +4,10 @@ This applications display a list of regions(Asia and europe), countries and the 
 Steps to follows to run the applications
 
 Step1: Clone the repository
-git clone https://github.com/santoshbussa/santosh-countriesinformations
+git clone https://github.com/santoshbussa/santoshcountriesinformationsapplication
 
 Step2: Navigate to the app's root directory
-cd  santosh-countriesinformations
+cd  santoshcountriesinformationsapplication
 
 Step3:Install the dependencies
 npm install
